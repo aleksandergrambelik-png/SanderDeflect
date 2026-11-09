@@ -1,0 +1,12 @@
+# Ignore Build Artifacts
+obj/
+build/
+*.class
+*.dex
+*.apk
+*.unaligned.apk
+*.aligned.apk
+
+# Ignore Core Modules (Secret Sauce)
+src/com/sander/deflect/func/
+src/com/sander/deflect/security/
