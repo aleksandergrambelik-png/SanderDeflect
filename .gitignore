@@ -12,3 +12,4 @@ src/com/sander/deflect/func/
 src/com/sander/deflect/security/
 *.idsig
 res.zip
+src/com/sander/deflect/support/
