@@ -6,6 +6,19 @@ A standalone Android defense dashboard built by Aleksander. Written in pure Java
 
 SanderDeflect is a native Android application designed for network reconnaissance, deception, and active defense. It runs directly on the device as an APK without requiring Termux or any other environment.
 
+## POC
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3187aca2-1351-4d4e-b344-be5e82e455ac" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/dada24c0-2568-4494-a170-f6620d7a2f14" width="300" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5025e579-52d6-43f3-b647-f46dcd39c65f" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/12e284f1-4b05-4dc8-95c1-30ffbf2eeeef" width="300" /></td>
+  </tr>
+</table>
+
 ## Features
 
 - Math Challenge: The application requires solving a random arithmetic problem before granting access. Intended as a basic filter against automated script kiddies.
