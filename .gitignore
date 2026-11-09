@@ -10,3 +10,5 @@ build/
 # Ignore Core Modules (Secret Sauce)
 src/com/sander/deflect/func/
 src/com/sander/deflect/security/
+*.idsig
+res.zip
